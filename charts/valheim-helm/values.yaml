@@ -3,6 +3,9 @@
 image: lloesche/valheim-server
 imageTag: latest
 
+service:
+  name: valhiem-helm
+
 replicaCount: 1
 
 # Configure resource requests and limits
