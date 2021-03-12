@@ -1,6 +1,6 @@
 apiVersion: v2
 name: valheim-helm
-version: 1.0.2
+version: 0.0.2
 appVersion: 0.142.6
 description: Valheim dedicated server.
 keywords:
